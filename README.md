@@ -1,2 +1,2 @@
 # Config_Projects
-Projects regarding web development
+Projects made by using HTML and CSS 
